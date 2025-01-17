@@ -77,3 +77,9 @@ crashlytics-build.properties
 /.plastic/plastic.wktree
 /.plastic/plastic.workspace
 /ignore.conf
+/.utmp*
+
+# Temporary file/directory: do not sync
+/[Aa]ssets/Temp
+**/[Dd]ummy*
+**/[Dd]ummy/*
